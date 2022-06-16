@@ -1,4 +1,3 @@
-
 #title{
     background-color: #ff4c68;
    color: #fff; 
@@ -72,4 +71,14 @@ h2{
 
 .card-deck{
  padding: 0% 15%;
+}
+#pricing{
+  text-align: center;
+}
+.pricingtext{
+  margin-bottom: 3%;
+}
+.h2{
+    font-size: 3.5rem;
+    font-weight: bold;
 }
